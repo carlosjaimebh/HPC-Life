@@ -1,0 +1,6 @@
+Scenario,Grid,Cooling,PUE,Energy (MWh),CO2 Footprint (Tons)
+Cartagena (Air),Colombia,Air Cooling,1.2,105120.0,15768.0
+Bucaramanga (Air),Colombia,Air Cooling,1.35,118260.0,17739.0
+Toluca (Air),Mexico,Air Cooling,1.75,153300.0,68985.0
+Toluca (D2C),Mexico,Direct-to-Chip,1.2,105120.0,47304.0
+Toluca (Immersion),Mexico,Immersion,1.04,91104.0,40996.8
